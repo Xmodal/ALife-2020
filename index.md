@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Interdisciplinary Approaches to A-Life and the Digital Arts 
+
+A workshop organized by Xmodal for the 2020 ALife conference
 
 You can use the [editor on GitHub](https://github.com/Xmodal/ALife_2020-ALife_and_the_arts/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
