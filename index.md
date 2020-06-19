@@ -1,7 +1,7 @@
 Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Howes.
 With the support of the Quebec Research Council for the Social Sciences and Humanities.
 
-##Description
+## Description
 
 This workshop explores the use of A-Life techniques in an area of growing research and creation practice: the new conception and design of complex interactive machines/ media environments.
 
@@ -13,7 +13,7 @@ The workshop will consist of discussions with the core investigators who come fr
 
 The workshop will be held as a satellite event at the Milieux Institute for Arts, Culture and Technology at Concordia University in Montreal, one of the largest interdisciplinary centers for research-creation in art, media technology, design and digital culture in North America.
 
-##Organizers
+## Organizers
 
 _Chris Salter_ is an artist, Full Professor for Design + Computation Arts at Concordia University in Montreal and Director of the Hexagram Concordia Centre for Research- Creation in Media Arts and Technology. He studied philosophy, economics, theatre and computer music at Emory and Stanford Universities. After collaborating with Peter Sellars and William Forsythe/Ballett Frankfurt, he co-founded and directed the art and research organization Sponge (1997-2003). His solo and collaborative work has been seen all over the world at such venues as the Venice Architecture Biennale, Ars Electronica, Barbican Centre, Berliner Festspiele, Wiener Festwochen, Musée d’art Contemporain, LLUM BCN 2020, PACT Zollverein, Villette Numerique, EMPAC, Transmediale, EXIT Festival and Place des Arts, among many others. He is the author of Entangled: Technology and the Transformation of Performance (MIT Press, 2010) and Alien Agency: Experimental Encounters with Art in the Making (MIT Press 2015). His new book on human and machine sensing will be published by MIT Press in 2021.
 
