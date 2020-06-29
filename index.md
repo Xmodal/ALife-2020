@@ -1,3 +1,5 @@
+### July 17th 2020 - 5:30pm-8:30pm (Eastern Time)
+
 Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Howes.
 With the support of the Quebec Research Council for the Social Sciences and Humanities.
 
