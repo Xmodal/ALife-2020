@@ -1,9 +1,23 @@
-### July 17th 2020 - 5:30pm-8:30pm (Eastern Time)
+## July 17th 2020 - 5:30pm-8:30pm (Eastern Time)
 
 Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Howes.
+
 With the support of the Quebec Research Council for the Social Sciences and Humanities.
 
-## Description
+### Program
+
+- Introduction 
+- I. Material encounter
+- II. Offloading agency
+- III. Creating (with) machines
+- Conclusion
+
+Each section will be followed by a short break.
+
+If you wih to propose your work for discussion during the workshop, please contact [alexandre.saunier@concordia.ca](alexandre.saunier@concordia.ca) .
+
+
+### Abstract
 
 This workshop explores the use of A-Life techniques in an area of growing research and creation practice: the new conception and design of complex interactive machines/ media environments.
 
