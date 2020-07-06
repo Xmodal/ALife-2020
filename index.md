@@ -14,7 +14,7 @@ With the support of the Quebec Research Council for the Social Sciences and Huma
 
 Each section will be followed by a short break.
 
-If you wih to propose your work for discussion during the workshop, please contact [alexandre.saunier@concordia.ca](alexandre.saunier@concordia.ca) .
+If you wih to propose your work for discussion during the workshop, please contact [alexandre.saunier@concordia.ca](mailto:alexandre.saunier@concordia.ca) .
 
 
 ### Abstract
