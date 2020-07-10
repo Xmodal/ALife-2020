@@ -6,7 +6,7 @@ With the support of the Quebec Research Council for the Social Sciences and Huma
 
 ### Program
 
-The workshop will be divided around 3 thematics and consist in presenting works, discussing them and workshop ideas collectively.
+The workshop will be divided around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
 Each section will be followed by a short break.
 
 If you wish to propose your work for discussion during the workshop, please contact [alexandre.saunier@concordia.ca](mailto:alexandre.saunier@concordia.ca) .
