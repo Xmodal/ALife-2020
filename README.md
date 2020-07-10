@@ -1,11 +1,31 @@
-# Interdisciplinary Approaches to A-Life and the Digital Arts
-
-### July 17th 2020 - 5:30pm-8:30pm (Eastern Time)
+## July 17th 2020 - 5:30pm-8:30pm (Eastern Time)
 
 Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Howes.
+
 With the support of the Quebec Research Council for the Social Sciences and Humanities.
 
-## Description
+### Program
+
+The workshop will be divided around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
+Each section will be followed by a short break.
+
+If you wish to propose your work for discussion during the workshop, please contact [alexandre.saunier@concordia.ca](mailto:alexandre.saunier@concordia.ca) .
+
+#### 1. Material encounter - anthropological encounter with artificial life
+
+As ALife gets out of computer screens and is staged into the material world, how does it develop a sense of its environment and how is it perceived by spectators?
+
+#### 3. Offloading agency - Mind is contagious
+
+What are the necessary ingredients that catalyze meaningful engagements with ALife machines and enable humans to infuse them with a sense of being and mind?
+
+#### 3. Creating (with) machines - metaphors to describe practice
+
+As AI and ALife exhibit novel forms of machinic agency and creativity, do practitioners develop a sense of "creating with" machines and how do they perceive this relation of "co-production"?
+
+
+
+## Abstract
 
 This workshop explores the use of A-Life techniques in an area of growing research and creation practice: the new conception and design of complex interactive machines/ media environments.
 
@@ -28,4 +48,5 @@ _Takashi Ikegami_ is a professor in the Department of General Systems Sciences a
 _David Howes_ is Professor of Anthropology, Co-Director of the Centre for Sensory Studies, and Director of the Centre for Interdisciplinary Studies in Society and Culture at Concordia University, Montreal, Canada. He holds three degrees in anthropology and two degrees in law. His main fields of research include sensory anthropology, multisensory aesthetics, culture and consumption, constitutional studies, and the anthropology of law. He has conducted field research on the cultural life of the senses in the Middle Sepik River region of Papua New Guinea, Northwestern Argentina, and the Southwestern United States. He is currently collaborating with new media artist Christopher Salter on a project called “Mediations of Sensation.” His latest publications include “Ways of Sensing: Understanding the Senses in Society” (co-authored with Constance Classen) and the edited collection “A Cultural History of the Senses in the Modern Age, 1920–2000.”
 
 _Sofian Audry_ studied computer science and mathematics at University of Montreal, where he completed a master in machine learning; following which he obtained a master in communication at UQÀM. His PhD is in Humanities from Concordia University. He creates computational artistic works through different forms such as robotics, interactive installations, immersive environments, physical computing interventions, internet art, and electronic literature. His work is inspired from visual art, artificial intelligence, artificial life, biology and cognitive sciences. He is an artist and Assistant Professor of New Media at the University of Quebec at Montreal (UQAM). His interdisciplinary practice and research is at the crossroad between artificial intelligence and contemporary new media art. Audry works to develop new artistic practices employing artificial agents and behaviors, to design new tools for new media creators, and to critically engage with the theoretical, and historical dimensions of AI. His work and research have been presented at multiple international events and venues such as Ars Electronica, Club Transmediale, Dutch Design Week, International Digital Arts Biennale, ISEA, La Gaîté Lyrique, Marrakech Biennale, Nuit Blanche Paris, SAT, V2, and the Vitra Design Museum.
+
 
