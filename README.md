@@ -25,15 +25,15 @@ As AI and ALife exhibit novel forms of machinic agency and creativity, do practi
 
 ### Program
 
-| **Time**    | **Title**                                                                                                                                                                     |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5:30 - 5:45 | **Introduction by the organizers**                                                                                                                                            |
-| 5:45 - 6:30 | **Material encounter - anthropological encounter with ALife**  - __Totem__ (Chris Salter, Alex Saunier, David Howes)  - __Tickle Salon__ (Erwin Driessens & Maria Verstappen) |
-| 6:30 - 6:40 | Break                                                                                                                                                                         |
-| 6:40 - 7:25 | **Mind is contagious - Offloading agency**  - __Altar__ (Takashi Ikegami)  - Sustainable open endedness in coevolving artworks (Stephen Kelly)                                |
-| 7:25 - 7:35 | Break                                                                                                                                                                         |
-| 7:35 - 8:20 | **Creating (with) machines - metaphors to describe practice**                                                                                                                 |
-| 8:20 - 8:30 | **Closing remarks**                                       
+| **Time**  | **Title**                                                                                                                                                                                                                    |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5:30-5:45 | **Introduction by the organizers**                                                                                                                                                                                           |
+| 5:45-6:30 | **Material encounter - anthropological encounter with ALife**<br/>- __Totem__ (Chris Salter, Alex Saunier, David Howes)<br/>- __Tickle Salon__ (Erwin Driessens & Maria Verstappen)                                          |
+| 6:30-6:40 | Break                                                                                                                                                                                                                        |
+| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- __Altar__ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
+| 7:25-7:35 | Break                                                                                                                                                                                                                        |
+| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau)<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen) |
+| 8:20-8:30 | **Closing remarks**                                                                                                                                                                                                          |
 
 ## Abstract
 
