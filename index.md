@@ -6,6 +6,18 @@ With the support of the Quebec Research Council for the Social Sciences and Huma
 
 ### Program
 
+| **Time**  | **Title**                                                                                                                                                                                                                    |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5:30-5:45 | **Introduction by the organizers**                                                                                                                                                                                           |
+| 5:45-6:30 | **Material encounter - anthropological encounter with ALife**<br/>- __Totem__ (Chris Salter, Alex Saunier, David Howes)<br/>- __Tickle Salon__ (Erwin Driessens & Maria Verstappen)                                          |
+| 6:30-6:40 | Break                                                                                                                                                                                                                        |
+| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- __Altar__ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
+| 7:25-7:35 | Break                                                                                                                                                                                                                        |
+| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau)<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen) |
+| 8:20-8:30 | **Closing remarks**                                                                                                                                                                                                          |
+
+### Thematics
+
 The workshop will be divided around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
 Each section will be followed by a short break.
 
@@ -15,15 +27,13 @@ If you wish to propose your work for discussion during the workshop, please cont
 
 As ALife gets out of computer screens and is staged into the material world, how does it develop a sense of its environment and how is it perceived by spectators?
 
-#### 3. Offloading agency - Mind is contagious
+#### 3. Mind is contagious - Offloading agency 
 
 What are the necessary ingredients that catalyze meaningful engagements with ALife machines and enable humans to infuse them with a sense of being and mind?
 
 #### 3. Creating (with) machines - metaphors to describe practice
 
 As AI and ALife exhibit novel forms of machinic agency and creativity, do practitioners develop a sense of "creating with" machines and how do they perceive this relation of "co-production"?
-
-
 
 ## Abstract
 
@@ -48,5 +58,3 @@ _Takashi Ikegami_ is a professor in the Department of General Systems Sciences a
 _David Howes_ is Professor of Anthropology, Co-Director of the Centre for Sensory Studies, and Director of the Centre for Interdisciplinary Studies in Society and Culture at Concordia University, Montreal, Canada. He holds three degrees in anthropology and two degrees in law. His main fields of research include sensory anthropology, multisensory aesthetics, culture and consumption, constitutional studies, and the anthropology of law. He has conducted field research on the cultural life of the senses in the Middle Sepik River region of Papua New Guinea, Northwestern Argentina, and the Southwestern United States. He is currently collaborating with new media artist Christopher Salter on a project called “Mediations of Sensation.” His latest publications include “Ways of Sensing: Understanding the Senses in Society” (co-authored with Constance Classen) and the edited collection “A Cultural History of the Senses in the Modern Age, 1920–2000.”
 
 _Sofian Audry_ studied computer science and mathematics at University of Montreal, where he completed a master in machine learning; following which he obtained a master in communication at UQÀM. His PhD is in Humanities from Concordia University. He creates computational artistic works through different forms such as robotics, interactive installations, immersive environments, physical computing interventions, internet art, and electronic literature. His work is inspired from visual art, artificial intelligence, artificial life, biology and cognitive sciences. He is an artist and Assistant Professor of New Media at the University of Quebec at Montreal (UQAM). His interdisciplinary practice and research is at the crossroad between artificial intelligence and contemporary new media art. Audry works to develop new artistic practices employing artificial agents and behaviors, to design new tools for new media creators, and to critically engage with the theoretical, and historical dimensions of AI. His work and research have been presented at multiple international events and venues such as Ars Electronica, Club Transmediale, Dutch Design Week, International Digital Arts Biennale, ISEA, La Gaîté Lyrique, Marrakech Biennale, Nuit Blanche Paris, SAT, V2, and the Vitra Design Museum.
-
-
