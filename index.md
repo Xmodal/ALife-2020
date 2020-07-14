@@ -2,7 +2,7 @@
 
 Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Howes.
 
-With the support of the Quebec Research Council for the Social Sciences and Humanities.
+With the support of the Fond de Recherche Société et Culture du Québec.
 
 ### Program
 
@@ -11,9 +11,9 @@ With the support of the Quebec Research Council for the Social Sciences and Huma
 | 5:30-5:45 | **Introduction by the organizers**                                                                                                                                                                                           |
 | 5:45-6:30 | **Material encounter - anthropological encounter with ALife**<br/>- _Totem_ (Chris Salter, Alex Saunier, David Howes)<br/>- _Tickle Salon_ (Erwin Driessens & Maria Verstappen)                                          |
 | 6:30-6:40 | Break                                                                                                                                                                                                                        |
-| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- _Altar_ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
+| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- _Alter_ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
 | 7:25-7:35 | Break                                                                                                                                                                                                                        |
-| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau)<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen) |
+| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen)<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau) |
 | 8:20-8:30 | **Closing remarks**                                                                                                                                                                                                          |
 
 ### Thematics
