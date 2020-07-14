@@ -6,18 +6,18 @@ With the support of the Fond de Recherche Société et Culture du Québec.
 
 ### Program
 
-| **Time**  | **Title**                                                                       |
-|-----------|---------------------------------------------------------------------------------|
-| 5:30-5:45 | **Introduction by the organizers** (Alex Saunier, Cris Salter, Joseph Thibodeau |
-| 5:45-6:10 | ***Totem*** (Chris Salter, David Howes)                                         |
-| 6:10-6:30 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
-| 6:30-6:40 | Break                                                                           |
-| 6:40-7:00 | **Offloaded mind** (Takashi Ikegami)                                            |
-| 7:00-7:20 | **Sustainable open endedness in coevolving artworks** (Stephen Kelly)           |
-| 7:20-7:30 | Break                                                                           |
-| 7:30-7:50 | **Evolving moving visual illusions from neural networks** (Lana Sinapayen)      |
-| 7:50-8:20 | **Refining the metaphors** (Sofian Audry, Joseph Thibodeau)                     |
-| 8:20-8:30 | **Closing remarks**                                                             |
+| **Time (EDT)**  | **Title**                                                                   |
+|-------------|---------------------------------------------------------------------------------|
+| 17:30-17:45 | **Introduction by the organizers** (Alex Saunier, Cris Salter, Joseph Thibodeau |
+| 17:45-18:10 | ***Totem*** (Chris Salter, David Howes)                                         |
+| 18:10-18:30 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
+| 18:30-18:40 | Break                                                                           |
+| 18:40-19:00 | **Offloaded mind** (Takashi Ikegami)                                            |
+| 19:00-19:20 | **Sustainable open endedness in coevolving artworks** (Stephen Kelly)           |
+| 19:20-19:30 | Break                                                                           |
+| 19:30-19:50 | **Evolving moving visual illusions from neural networks** (Lana Sinapayen)      |
+| 19:50-20:20 | **Refining the metaphors** (Sofian Audry, Joseph Thibodeau)                     |
+| 20:20-20:30 | **Closing remarks**                                                             |
 
 ### Thematics
 
