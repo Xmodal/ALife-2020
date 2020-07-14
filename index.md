@@ -12,7 +12,7 @@ With the support of the Fond de Recherche Société et Culture du Québec.
 | 5:45-6:10 | ***Totem*** (Chris Salter, David Howes)                                         |
 | 6:10-6:30 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
 | 6:30-6:40 | Break                                                                           |
-| 6:40-7:00 | **Mind is contagious** (Takashi Ikegami)                                        |
+| 6:40-7:00 | **Offloaded mind** (Takashi Ikegami)                                            |
 | 7:00-7:20 | **Sustainable open endedness in coevolving artworks** (Stephen Kelly)           |
 | 7:20-7:30 | Break                                                                           |
 | 7:30-7:50 | **Evolving moving visual illusions from neural networks** (Lana Sinapayen)      |
