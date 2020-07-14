@@ -4,6 +4,18 @@ Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Ho
 
 With the support of the Quebec Research Council for the Social Sciences and Humanities.
 
+### Program
+
+| **Time**  | **Title**                                                                                                                                                                                                                    |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5:30-5:45 | **Introduction by the organizers**                                                                                                                                                                                           |
+| 5:45-6:30 | **Material encounter - anthropological encounter with ALife**<br/>- __Totem__ (Chris Salter, Alex Saunier, David Howes)<br/>- __Tickle Salon__ (Erwin Driessens & Maria Verstappen)                                          |
+| 6:30-6:40 | Break                                                                                                                                                                                                                        |
+| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- __Altar__ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
+| 7:25-7:35 | Break                                                                                                                                                                                                                        |
+| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau)<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen) |
+| 8:20-8:30 | **Closing remarks**                                                                                                                                                                                                          |
+
 ### Thematics
 
 The workshop will be divided around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
@@ -22,18 +34,6 @@ What are the necessary ingredients that catalyze meaningful engagements with ALi
 #### 3. Creating (with) machines - metaphors to describe practice
 
 As AI and ALife exhibit novel forms of machinic agency and creativity, do practitioners develop a sense of "creating with" machines and how do they perceive this relation of "co-production"?
-
-### Program
-
-| **Time**  | **Title**                                                                                                                                                                                                                    |
-|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5:30-5:45 | **Introduction by the organizers**                                                                                                                                                                                           |
-| 5:45-6:30 | **Material encounter - anthropological encounter with ALife**<br/>- __Totem__ (Chris Salter, Alex Saunier, David Howes)<br/>- __Tickle Salon__ (Erwin Driessens & Maria Verstappen)                                          |
-| 6:30-6:40 | Break                                                                                                                                                                                                                        |
-| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- __Altar__ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
-| 7:25-7:35 | Break                                                                                                                                                                                                                        |
-| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau)<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen) |
-| 8:20-8:30 | **Closing remarks**                                                                                                                                                                                                          |
 
 ## Abstract
 
