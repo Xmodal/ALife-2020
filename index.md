@@ -6,22 +6,23 @@ With the support of the Fond de Recherche Société et Culture du Québec.
 
 ### Program
 
-| **Time**  | **Title**                                                                                                                                                                                                                    |
-|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5:30-5:45 | **Introduction by the organizers**                                                                                                                                                                                           |
-| 5:45-6:30 | **Material encounter - anthropological encounter with ALife**<br/>- _Totem_ (Chris Salter, Alex Saunier, David Howes)<br/>- _Tickle Salon_ (Erwin Driessens & Maria Verstappen)                                          |
-| 6:30-6:40 | Break                                                                                                                                                                                                                        |
-| 6:40-7:25 | **Mind is contagious - Offloading agency**<br/>- _Alter_ (Takashi Ikegami)<br/>- Sustainable open endedness in coevolving artworks (Stephen Kelly)                                                                         |
-| 7:25-7:35 | Break                                                                                                                                                                                                                        |
-| 7:35-8:20 | **Creating (with) machines - metaphors to describe practice**<br/>- Evolving moving visual illusions from neural networks (Lana Sinapayen)<br/>- Relationships between artists and machines (Sofian Audry, Joseph Thibodeau) |
-| 8:20-8:30 | **Closing remarks**                                                                                                                                                                                                          |
+| **Time**  | **Title**                                                                       |
+|-----------|---------------------------------------------------------------------------------|
+| 5:30-5:45 | **Introduction by the organizers** (Alex Saunier, Cris Salter, Joseph Thibodeau |
+| 5:45-6:10 | ***Totem*** (Chris Salter, David Howes)                                         |
+| 6:10-6:30 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
+| 6:30-6:40 | Break                                                                           |
+| 6:40-7:00 | **Mind is contagious** (Takashi Ikegami)                                        |
+| 7:00-7:20 | **Sustainable open endedness in coevolving artworks** (Stephen Kelly)           |
+| 7:20-7:30 | Break                                                                           |
+| 7:30-7:50 | **Evolving moving visual illusions from neural networks** (Lana Sinapayen)      |
+| 7:50-8:20 | **Refining the metaphors** (Sofian Audry, Joseph Thibodeau)                     |
+| 8:20-8:30 | **Closing remarks**                                                             |
 
 ### Thematics
 
-The workshop will be divided around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
+The workshop revolves around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
 Each section will be followed by a short break.
-
-If you wish to propose your work for discussion during the workshop, please contact [alexandre.saunier@concordia.ca](mailto:alexandre.saunier@concordia.ca) .
 
 #### 1. Material encounter - anthropological encounter with artificial life
 
