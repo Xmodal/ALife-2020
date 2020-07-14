@@ -4,7 +4,7 @@ Organized by Chris Salter, Alex Saunier, Takashi Ikegami, Sofian Audry, David Ho
 
 With the support of the Quebec Research Council for the Social Sciences and Humanities.
 
-### Program
+### Thematics
 
 The workshop will be divided around 3 thematics and consist in presenting works, discussing them and brainstorming ideas collectively.
 Each section will be followed by a short break.
@@ -15,7 +15,7 @@ If you wish to propose your work for discussion during the workshop, please cont
 
 As ALife gets out of computer screens and is staged into the material world, how does it develop a sense of its environment and how is it perceived by spectators?
 
-#### 3. Offloading agency - Mind is contagious
+#### 3. Mind is contagious - Offloading agency 
 
 What are the necessary ingredients that catalyze meaningful engagements with ALife machines and enable humans to infuse them with a sense of being and mind?
 
@@ -23,7 +23,17 @@ What are the necessary ingredients that catalyze meaningful engagements with ALi
 
 As AI and ALife exhibit novel forms of machinic agency and creativity, do practitioners develop a sense of "creating with" machines and how do they perceive this relation of "co-production"?
 
+### Program
 
+| **Time**    | **Title**                                                                                                                                                                   |   |   |   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| 5:30 - 5:45 | **Introduction by the organizers**                                                                                                                                          |   |   |   |
+| 5:45 - 6:30 | **Material encounter - anthropological encounter with ALife** - __Totem__ (Chris Salter, Alex Saunier, David Howes) - __Tickle Salon__ (Erwin Driessens & Maria Verstappen) |   |   |   |
+| 6:30 - 6:40 | Break                                                                                                                                                                       |   |   |   |
+| 6:40 - 7:25 | **Mind is contagious - Offloading agency** - __Altar__ (Takashi Ikegami) - Sustainable open endedness in coevolving artworks (Stephen Kelly)                                |   |   |   |
+| 7:25 - 7:35 | Break                                                                                                                                                                       |   |   |   |
+| 7:35 - 8:20 | **Creating (with) machines - metaphors to describe practice**                                                                                                               |   |   |   |
+| 8:20 - 8:30 | **Closing remarks**                                                                                                                                                         |   |   |   |
 
 ## Abstract
 
