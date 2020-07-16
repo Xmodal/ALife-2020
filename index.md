@@ -8,16 +8,17 @@ With the support of the Fond de Recherche Société et Culture du Québec.
 
 | **Time (EDT)**  | **Title**                                                                   |
 |-------------|---------------------------------------------------------------------------------|
-| 17:30-17:45 | **Introduction by the organizers** (Alex Saunier, Cris Salter, Joseph Thibodeau |
+| 17:30-17:45 | **Introduction by the organizers** (Alex Saunier, Cris Salter, Joseph Thibodeau)|
 | 17:45-18:10 | ***Totem*** (Chris Salter, David Howes)                                         |
-| 18:10-18:30 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
-| 18:30-18:40 | Break                                                                           |
-| 18:40-19:00 | **Offloaded mind** (Takashi Ikegami)                                            |
-| 19:00-19:20 | **Sustainable open endedness in coevolving artworks** (Stephen Kelly)           |
-| 19:20-19:30 | Break                                                                           |
-| 19:30-19:50 | **Evolving moving visual illusions from neural networks** (Lana Sinapayen)      |
-| 19:50-20:20 | **Refining the metaphors** (Sofian Audry, Joseph Thibodeau)                     |
-| 20:20-20:30 | **Closing remarks**                                                             |
+| 18:05-18:20 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
+| 18:20-18:40 | **Offloaded mind** (Takashi Ikegami)                                            |
+| 18:40-18:50 | Break                                                                           |
+| 18:50-19:05 | **Sustainable open endedness in coevolving artworks** (Stephen Kelly)           |
+| 19:05-19:20 | **Evolving moving visual illusions from neural networks** (Lana Sinapayen)      |
+| 19:20-19:40 | **Refining the metaphors** (Sofian Audry, Joseph Thibodeau)                     |
+| 19:40-19:50 | Break                                                                           |
+| 19:50-20:25 | **Discussion**                                                                  |
+| 20:25-20:30 | **Closing remarks**                                                             |
 
 ### Thematics
 
