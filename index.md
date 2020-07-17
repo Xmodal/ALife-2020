@@ -9,7 +9,7 @@ With the support of the Fond de Recherche Société et Culture du Québec.
 | **Time (EDT)**  | **Title**                                                                   |
 |-------------|---------------------------------------------------------------------------------|
 | 17:30-17:45 | **Introduction by the organizers** (Alex Saunier, Cris Salter, Joseph Thibodeau)|
-| 17:45-18:10 | ***Totem*** (Chris Salter, David Howes)                                         |
+| 17:45-18:05 | ***Totem*** (Chris Salter, David Howes)                                         |
 | 18:05-18:20 | ***Tickle Salon*** (Erwin Driessens & Maria Verstappen)                         |
 | 18:20-18:40 | **Offloaded mind** (Takashi Ikegami)                                            |
 | 18:40-18:50 | Break                                                                           |
